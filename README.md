@@ -1,5 +1,5 @@
 # testegit
-Testando comandos git
-Testando comandos
 
-modificacao joaopedro
+Testando colaboração e comandos git
+
+! modificacao | joaopedro !

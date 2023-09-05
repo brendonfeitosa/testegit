@@ -2,4 +2,4 @@
 
 Testando colaboração e comandos git
 
-! modificacao | joaopedro !
+modificacao | joaopedro
